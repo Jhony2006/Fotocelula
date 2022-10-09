@@ -15,17 +15,18 @@
 |![Esquemático](https://github.com/Jhony2006/Fotocelula/blob/main/EsquematicoFTCL.png) |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
-|Layout Easy EDA|
+|Trilhas|
+|:---------:|
+|![](https://github.com/Jhony2006/Fotocelula/blob/main/TrilhasFTCL.png) |
+|Fonte: Amel,Edgar,João,Joel e Vinicius| 
+
+|PCI|
 |:---------:|
 |![Esquematico]() |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
-|3D Parte superior|
+|Vista 3D|
 |:---------:|
-|![Esquematico]() |
+|![](https://github.com/Jhony2006/Fotocelula/blob/main/3DFTCL.png) |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
-|3D Parte inferior|
-|:---------:|
-|![Esquematico]() |
-|Fonte: Amel,Edgar,João,Joel e Vinicius| 
