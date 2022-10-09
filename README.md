@@ -1,10 +1,5 @@
 ## FOTOCÉLULA
 
-|*Esquematico Protheus*|
-|:---------:|
-|![]() |
-|Fonte: Amel,Edgar,João,Joel e Vinicius| 
-
 |Simulação Protheus|
 |:---------:|
 |![Esquematico]()|
@@ -22,7 +17,7 @@
 
 |PCI|
 |:---------:|
-|![Esquematico]() |
+|![Esquematico](https://github.com/Jhony2006/Fotocelula/blob/main/PCBFTCL.png) |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
 |Vista 3D|
