@@ -1,8 +1,8 @@
-## FOTOCELULA
+## FOTOCÉLULA
 
-|Esquematico Protheus|
+|*Esquematico Protheus*|
 |:---------:|
-|![Esquematico]() |
+|![]() |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
 |Simulação Protheus|
@@ -10,9 +10,9 @@
 |![Esquematico]()|
 |Fonte: Amel,Edgar,João,Joel e Vinicius|
 
-|Esquematico Easy EDA|
+|Esquemático Easy EDA|
 |:---------:|
-|![Esquematico]() |
+|![Esquemático](https://github.com/Jhony2006/Fotocelula/blob/main/EsquematicoFTCL.png) |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
 |Layout Easy EDA|
