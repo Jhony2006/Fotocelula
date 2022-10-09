@@ -2,7 +2,7 @@
 
 |Simulação Protheus|
 |:---------:|
-|![Esquematico]()|
+|![Esquematico](https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/02/tilapia-e1645622421681.jpg)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius|
 
 |Esquemático Easy EDA|
