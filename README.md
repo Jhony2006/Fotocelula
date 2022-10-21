@@ -1,8 +1,8 @@
 ## FOTOCÉLULA
 
-|Simulação Protheus|
+|Esquematico Protheus|
 |:---------:|
-|![Esquematico](https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2022/02/tilapia-e1645622421681.jpg)|
+|![image](https://user-images.githubusercontent.com/111142585/197275535-7bb8b0d6-f5b8-4391-9225-bfaa217b7e4b.png)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius|
 
 |Esquemático Easy EDA|
@@ -25,3 +25,7 @@
 |![](https://github.com/Jhony2006/Fotocelula/blob/main/3DFTCL.png) |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
+|Protoboard|
+|:---------:|
+|[Gi FOTOCELULA.gif]
+|Fonte: Amel,Edgar,João,Joel e Vinicius| 
