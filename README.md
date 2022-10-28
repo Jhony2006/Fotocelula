@@ -25,7 +25,11 @@
 |![](https://github.com/Jhony2006/Fotocelula/blob/main/3DFTCL.png) |
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
 
+<center>
+
 |Protoboard|
 |:---------:|
 |![Gif Fotocélula](https://github.com/Jhony2006/Fotocelula/blob/main/GIF%20FOTOCELULA.gif)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
+
+<center>
