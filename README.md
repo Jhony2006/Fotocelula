@@ -27,5 +27,5 @@
 
 |Protoboard|
 |:---------:|
-|[Gi FOTOCELULA.gif]
+|![Gif Fotocélula](https://github.com/Jhony2006/Fotocelula/blob/main/GIF%20FOTOCELULA.gif)|
 |Fonte: Amel,Edgar,João,Joel e Vinicius| 
